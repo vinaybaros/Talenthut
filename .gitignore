@@ -1,0 +1,19 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+#/hireapp
+#/assets/images
+
+# System Files
+.DS_Store
+Thumbs.db
+package-lock.json
+*.DS_Store
+Thumbs.db
+package-lock.json
+
+# vscode Files
+.vscode/
+
+# Old_Design
+.Old_Design/
