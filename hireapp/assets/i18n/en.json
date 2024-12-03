@@ -1,0 +1,16 @@
+{
+    "bannerTitle": "Freelance Talent On-Demand",
+    "talentButtonTitle" : "Join as a Member",
+    "customerButtonTitle" : "Hire a Freelancer",
+    "customerModalTitle" : "Hire a Freelancer",
+    "talentModalTitle" : "Let's get started.",
+    "HighlyVetted" : "Highly Vetted <br> & Qualified Freelancers",
+    "MinimizeOverhead" : "Minimize Overhead <br> & Increase Efficiency",
+    "RiskFree" : "Risk Free <br> Trial Period",
+    "hirefreelancerText": "Hire freelancers for a range of skills and flexible scope <br><span>Short or Long term, Full or Part time</span>",
+    "developers" : "Software Engineers, Web Developers, Mobile Developers, Database Developers",
+    "designers" : "Expert UI, UX, Visual and Interaction Designers",
+    "architects" : "Solution Architects, Techinical Architects, Database and Test Architects",
+    "testers" : "Manual and Automation Testers for applications, databases, and packaged implementations",
+    "analysts" : "Business Analysts, Project and Program Managers, Scrum Masters and Agile Coaches"
+}
